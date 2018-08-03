@@ -1,5 +1,5 @@
 # Navigating-the-Food-Chain
-Quiz: Navigating the Food Chain (3-8) Udacity Quiz. 
+### Quiz: Navigating the Food Chain (3-8) Udacity Quiz. 
 
 A series of ternary statements that sets the variable category equal to:
 
