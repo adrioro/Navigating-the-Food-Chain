@@ -8,5 +8,6 @@ A series of ternary statements that sets the variable category equal to:
 - "omnivore" if an animal eats plants and animals
 - undefined if an animal doesn't eat plants or animals
 
-### Testing code using the eatsPlants and eatsAnimals variables.
+### Testing:
+Testing code using the eatsPlants and eatsAnimals variables.
 
